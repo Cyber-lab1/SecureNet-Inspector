@@ -1,7 +1,7 @@
 ### SecureNet-Inspector
 SecureNet Inspector:  is a versatile and user-friendly command-line tool designed to enhance network security by scanning for up addresses, identifying open ports, and assisting with SSH key management.
 
-##Key Features:
+##**Key Features:**
 
 **Network Scanning:** SecureNet Inspector performs network scans to discover live hosts and identify open ports. It allows you to specify the IP range and the SSH port to target your network security audit.
 
