@@ -1,0 +1,7 @@
+**Just Make Sure The you Give the script full permissions by using the following command: **
+[chmod +x [Script.sh]] 
+And Then Tool should work with you:
+
+┌──(root㉿Mr)-[/home/yourusername/Desktop]
+└─# ./ssh-scan-manager.sh        
+Enter IP range (Example:192.168.x.x):  
