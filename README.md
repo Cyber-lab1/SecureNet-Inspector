@@ -40,5 +40,15 @@ Connect Us On
 [My Github Page](https://github.com/yazanhwedi)
 ---
 
-Your feedback and contributions are highly appreciated. We hope SecureNet Inspector helps you enhance your network security. Thank you for using our tool!
+## User Feedback and Ratings
+
+Please leave your feedback and rate our project with stars ⭐⭐⭐⭐⭐:
+
+- ⭐: Not satisfied
+- ⭐⭐: Somewhat satisfied
+- ⭐⭐⭐: Satisfied
+- ⭐⭐⭐⭐: Very satisfied
+- ⭐⭐⭐⭐⭐: Extremely satisfied
+
+Feel free to leave your comments and suggestions below.
 
