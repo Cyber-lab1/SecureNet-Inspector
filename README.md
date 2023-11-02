@@ -51,4 +51,4 @@ Please leave your feedback and rate our project with stars ⭐⭐⭐⭐⭐:
 - ⭐⭐⭐⭐⭐: Extremely satisfied
 
 Feel free to leave your comments and suggestions below.
-
+[issue](https://github.com/yazanhwedi/SecureNet-Inspector/issues).
